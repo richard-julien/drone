@@ -33,3 +33,5 @@ bin/drone
 bin/drone-agent
 bin/drone-build
 bin/drone-server
+.idea/
+*.iml
